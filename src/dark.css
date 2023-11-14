@@ -918,3 +918,15 @@ button:focus-visible {
     color: #fff !important;
   }
 }
+.primary:hover {
+  background-color: #6306b2 !important;
+  color: #fff !important;
+  border: 1px solid #5c00e7 !important;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+.secondary:hover {
+  background-color: #020724 !important;
+  color: #fff !important;
+  border: 1px solid #020724 !important;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
