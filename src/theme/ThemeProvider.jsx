@@ -4,7 +4,6 @@ import ThemeContext from "./ThemeContext";
 
 const ThemeProvider = ({ children }) => {
   const [isDarkMode, setDarkMode] = useState(true);
-
   useEffect(() => {
     // const darkStyle = document.getElementById("dark-theme-style");
     // const handleStylesReady = () => {
