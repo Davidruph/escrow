@@ -1,4 +1,4 @@
-const PATH = "src/assets/images";
+const PATH = "/images";
 
 export const logo = `${PATH}/logo.svg`;
 export const facebook = `${PATH}/facebook.svg`;
